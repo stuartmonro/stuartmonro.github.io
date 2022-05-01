@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /travel_folder/florida2022/
+permalink: /travel_folder/arriving/
 title: Florida 2022
 ---
 

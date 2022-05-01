@@ -20,6 +20,8 @@ Upon departing the shuttle, you will be tempted to follow the crowd to B side, p
 
 If you have checked in online, you can proceed directly to the garage where you will be assisted by both a Virgin Holidays and Alamo representative.
 
+Remember to add the reg for the car into the VTP app. 
+
 Please make yourself known to the Virgin Rep at the podium on the A side for your villa directions before leaving the terminal. 
 
 ![VTP map image](https://stuartmonro.github.io/images/vtp.jpg "VTP map")

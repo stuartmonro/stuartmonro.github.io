@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /travel_folder/arriving/
-title: Florida 2022
+title: Florida Arrival
 ---
 
 # Arriving in MCO
@@ -23,6 +23,8 @@ If you have checked in online, you can proceed directly to the garage where you 
 Please make yourself known to the Virgin Rep at the podium on the A side for your villa directions before leaving the terminal. 
 
 ![VTP map image](https://stuartmonro.github.io/images/vtp.jpg "VTP map")
+
+[VTP website](https://visitortollpass.com 'VTP site'){:target="\_blank"}
 
 
 

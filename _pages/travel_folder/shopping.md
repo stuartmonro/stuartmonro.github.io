@@ -37,7 +37,7 @@ More high end
 - Chick Fil A
 
 ## Orlando Vineland Premium Outlets
-[Outlets website](https://www.premiumoutlets.com/outlet/orlando-vineland 'Outlets website')
+[Outlets website](https://www.premiumoutlets.com/outlet/orlando-vineland 'Outlets website'){:target="\_blank"}
 
 ### Ron Jons
 Now located at Disney Springs 

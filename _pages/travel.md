@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /music/
-title: Music Stuff
+permalink: /travel/
+title: Travel Stuff
 ---
 
 

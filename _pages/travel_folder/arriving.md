@@ -3,9 +3,6 @@ layout: page
 permalink: /travel_folder/arriving/
 title: Florida Arrival
 ---
-
-# Arriving in MCO
-
 Terminal - Virgin flights arrive in terminal A (side A). This is where the Virgin Holidays kiosk, car hire desk and VTP vending machine are.
 
 We might need to go to the Virgin kiosk to get the villa details, otherwise we should be able to go straight to the car hire garage to pick up the car (after we've picked up the VTP thing).

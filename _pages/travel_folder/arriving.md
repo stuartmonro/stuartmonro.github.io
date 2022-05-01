@@ -10,7 +10,7 @@ Terminal - Virgin flights arrive in terminal A (side A). This is where the Virgi
 
 We might need to go to the Virgin kiosk to get the villa details, otherwise we should be able to go straight to the car hire garage to pick up the car (after we've picked up the VTP thing).
 
-##From the Skip the Queue doc
+## From the Skip the Queue doc
 
 Upon arrival, proceed to Immigration and then be directed to the Customs Hall to collect your luggage from Virgin Atlantic baggage belts.
 
@@ -21,6 +21,8 @@ Upon departing the shuttle, you will be tempted to follow the crowd to B side, p
 If you have checked in online, you can proceed directly to the garage where you will be assisted by both a Virgin Holidays and Alamo representative.
 
 Please make yourself known to the Virgin Rep at the podium on the A side for your villa directions before leaving the terminal. 
+
+![VTP map image](https://stuartmonro.github.io/images/vtp.jpg "VTP map")
 
 
 

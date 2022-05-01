@@ -6,4 +6,4 @@ title: Travel Stuff
 
 ## Stuff will go here
 
-<a href="{{ site.baseurl }}/travel_folder/florida2022">florida2022</a>
+[Florida 2022](https://stuartmonro.github.io/travel_folder/florida2022 'Disney Baby')

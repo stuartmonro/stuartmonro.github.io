@@ -5,12 +5,45 @@ title: Food Ideas
 ---
 # Breakfast
 
+### Recommended
+
 #### Cracker Barrel
 According to Dibb they're _way_ better than IHOP for pancakes
 
+Also good for lunch
 
-## Orlando Vineland Premium Outlets
-[Outlets website](https://www.premiumoutlets.com/outlet/orlando-vineland 'Outlets website'){:target="\_blank"}
+#### First Watch
+For breakfast and brunch. Recommended on Dibb
+
+[First Watch website](https://www.firstwatch.com/?version=core){:target="\_blank"}
+
+#### Cheddars Scratch Kitchen
+The concept of the "scratch" kitchen seems to be taking off in the US. Basically it means a restaurant where they cook everything from scratch. Revolutionary!!
+
+This is a chain that looks similar to Cracker Barrel and may be worth checking out
+
+[Cheddars Scratch Kitchen website](https://www.cheddars.com/home){:target="\_blank"}
+
+#### Bob Evans
+Another one popular on the Dibb. There's one not far from where we stayed previously in Kissimmee
+
+[Bob Evans website](https://www.bobevans.com/menu/){:target="\_blank"}
+
+### Other Options
+
+##### IHOP
+Avoid the ones on I-drive and the one attached to a Days Inn, poor experiences on the Dibb
+
+The one near Walgreens on the 192 and the one at Lake Buena Vista are both recommended, by very recent visitors from the Dibb (particularly LBV)
+
+##### Panera Bread
+A promising looking breakfast / brunch / lunch type option
+
+[Panera Bread website](https://www.panerabread.com/){:target="\_blank"}
+
+
+
+
 
 
 

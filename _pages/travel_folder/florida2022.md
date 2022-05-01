@@ -7,6 +7,6 @@ title: Florida 2022!
 
 [Shopping](https://stuartmonro.github.io/travel_folder/shopping 'Shopping')
 
-[Food Ideas](https://stuartmonro.github.io/travel_folder/food) 'Food ideas')
+[Food Ideas](https://stuartmonro.github.io/travel_folder/food 'Food ideas')
 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /archive/
-title: Posts Archive
+permalink: /music/
+title: Music Stuff
 ---
 
 

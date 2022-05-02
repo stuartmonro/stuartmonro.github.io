@@ -41,6 +41,38 @@ A promising looking breakfast / brunch / lunch type option
 
 [Panera Bread website](https://www.panerabread.com/){:target="\_blank"}
 
+# Burgers / Steaks / Americana
+
+### Recommended
+
+#### Longhorn Steakhouse
+On I-drive, seems to be the one most frequently recommended. Decent prices and tasty side options
+
+[Longhorn website](https://www.longhornsteakhouse.com/home){:target="\_blank"}	 	
+
+#### Teak Neighborhood Grill
+Looks really good - burgers, sandwiches, tacos, salads and flatbreads
+
+[Teak website](https://www.teakorlando.com){:target="\_blank"}
+
+#### Culvers
+Burger joint, lots of recommendations. Maybe not quite as varied as Teak but possibly lighter and cheaper
+
+[Culvers website](https://www.culvers.com/menu-and-nutrition){:target="\_blank"}
+
+### Other Options
+
+#### BJs
+
+#### Manny's Chophouse
+
+#### Logan's Roadhouse
+
+#### Toojays
+
+
+#### Rock n Brew
+
 
 
 

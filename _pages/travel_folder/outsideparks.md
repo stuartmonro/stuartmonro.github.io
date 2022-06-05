@@ -7,6 +7,11 @@ title: Outside the Parks
 
 We have tickets booked for [Kennedy Space Centre](https://www.kennedyspacecenter.com){:target="\_blank"}
 
+### Valiant Air Command
+A private air museum open Thurs - Sun 9am to 5pm and near KSC. $20 per person 
+
+[Website here](https://www.valiantaircommand.com){:target="\_blank"}
+
 # Places to Visit
 
 
@@ -36,4 +41,40 @@ A state park, would give something of a change of pace. Hiking, swimming, picnic
 
 [Park website here](https://www.floridastateparks.org/parks-and-trails/wekiwa-springs-state-park){:target="\_blank"}
 
+
+
 # Beaches and the Coast
+
+If we're going to visit a beach or seaside town, the recommendation is to avoid the weekends as it can be pretty busy with bad traffic delays.
+
+### Cocoa Beach
+Might be worth combining with a trip to NASA
+
+[Somewhere to park](https://www.visitspacecoast.com/cocoa-beach/things-to-do/lori-wilson-park){:target="\_blank"}
+
+[Somewhere to eat (key lime pie)](https://flkeylimepies.com/){:target="\_blank"}
+
+[Somewhere to shop](https://www.ronjonsurfshop.com/location/detail.aspx?LocationId=7){:target="\_blank"} - close to the Key Lime Pie place
+
+### John's Pass
+Apparently John's Pass - just south of Clearwater is really nice & quite laid back compared to Clearwater
+
+[Johns Pass website](https://www.johnspass.com){:target="\_blank"}
+
+There's a pirate ship tour, pirates and frozen custard
+
+[Pirates](https://youtu.be/O3s-F4hhMgc){:target="\_blank"}
+
+Dolphin spotting boat trips are also available in the area
+
+[Dolphins](https://www.johnspass.com/family-entertainment/madeira-beach/tampa-bay-dolphin-tours/){:target="\_blank"}	
+
+### Clearwater Beach
+About 1h 45m from Kissimmee and has dolphin spotting boats.
+Little Toot at Clearwater recommended on Dibb for dolphin spotting boats, but also recommends we book in advance as they sell out $25.23 each. Supposedly you can sometimes spot dolphins from the pier
+
+[Little Toot](https://www.littletoot.us){:target="\_blank"}
+
+# Rainy Day Options
+
+- Dexerland Park [website here](https://dezerlandpark.com/orlando/){:target="\_blank"} looks like it could be fun

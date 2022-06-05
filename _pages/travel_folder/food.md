@@ -63,16 +63,35 @@ Burger joint, lots of recommendations. Maybe not quite as varied as Teak but pos
 ### Other Options
 
 #### BJs
+	Might be worth a visit - big menu - maybe too big and varied to be good?
+Pizza, burgers, pasta, chicken, steak, lighter stuff, seafood
+[BJs website](https://www.bjsrestaurants.com/menu){:target="\_blank"}
 
 #### Manny's Chophouse
+Another burger and steak joint, recommended by a couple of people on Dibb
+Winter Haven one less busy than Haines?
+[Mannys website](https://www.mannyschophouse.com){:target="\_blank"}
 
 #### Logan's Roadhouse
+Steak and burger joint
 
 #### Toojays
-
+Looks a little bit different, crazy big sandwiches
+Could be worth checking out
+[Toojays website](https://www.toojays.com/location/orlando-restaurant-colonial-market-plaza/){:target="\_blank"}
 
 #### Rock n Brew
+Another chain, typical American food
+[Rock n Brew website](https://www.rockandbrews.com/kissimmee#menu){:target="\_blank"}
 
+### Sickies Garage
+Looks like a good burger joint, may be worth checking out
+[Sickies website](https://sickiesburgers.com/){:target="\_blank"}
+
+### Hash House a Go Go
+Hard to get an idea of the menu other than it looks like country food again (like Cracker Barrel and Cheddar's Scratch Kitchen) highly recommended though on the Dibb. Some alternative suggestions on the Dibb that Hash Houses in general are quantity over quality
+
+# Pizza
 
 
 

@@ -5,8 +5,8 @@ title: Food Ideas
 ---
 # Index
 
-[Breakfast](#Breakfast)
-[BBQ](#BBQ)
+- [Breakfast](#breakfast)
+- [BBQ](#bbq)
 
 
 # Breakfast

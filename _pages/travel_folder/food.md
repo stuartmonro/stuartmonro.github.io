@@ -7,6 +7,8 @@ title: Food Ideas
 
 - [Breakfast](#breakfast)
 - [BBQ](#bbq)
+- [Burgers, Steaks and Americana](#burgers-,-steaks-and-americana)
+- [Pizza](#pizza)
 
 
 # Breakfast
@@ -81,7 +83,7 @@ Based at Disney Springs
 [website](https://www.politepig.com/menu){:target="\_blank"}
 
 
-# Burgers / Steaks / Americana
+# Burgers, Steaks and Americana
 
 ### Recommended
 

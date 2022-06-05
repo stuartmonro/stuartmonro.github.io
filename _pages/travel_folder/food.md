@@ -84,7 +84,7 @@ Based at Disney Springs
 [website](https://www.politepig.com/menu){:target="\_blank"}
 
 
-# Burgers Steaks and Americana
+# Burgers, Steaks and Americana
 
 ### Recommended
 

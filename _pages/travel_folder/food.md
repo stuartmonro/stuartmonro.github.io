@@ -7,8 +7,9 @@ title: Food Ideas
 
 - [Breakfast](#breakfast)
 - [BBQ](#bbq)
-- [Burgers, Steaks and Americana](#burgers,-steaks-and-americana)
+- [Burgers, Steaks and Americana](#burgers-steaks-and-americana)
 - [Pizza](#pizza)
+- [Other Stuff](#other-stuff)
 
 
 # Breakfast
@@ -83,7 +84,7 @@ Based at Disney Springs
 [website](https://www.politepig.com/menu){:target="\_blank"}
 
 
-# Burgers, Steaks and Americana
+# Burgers Steaks and Americana
 
 ### Recommended
 
@@ -148,10 +149,13 @@ Pizza - takeout and sit in
 ## Been Before and Want to Go Back
 
 ### Bahama Breeze
-
+Went there last time & it was really good
+[website](https://www.bahamabreeze.com/menu/appetizers/){:target="\_blank"}
 
 ### Cheesecake Factory
-
+Needs no explanation. Located at Mall at Millennia
+The Susan buster?
+[website](https://www.thecheesecakefactory.com/menu){:target="\_blank"}
 
 ## Others
 

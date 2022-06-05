@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /travel_folder/parks/
+permalink: /travel_folder/parkplanning/
 title: In the Parks
 ---
 Epcot and the water parks are usually busier at the weekends. We should also try to avoid extra magic hours days in the parks [link to extra hours details](https://www.disneyworld.eu/guest-services/extended-evening/){:target="\_blank"}.

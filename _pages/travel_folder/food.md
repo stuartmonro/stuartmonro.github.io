@@ -7,7 +7,7 @@ title: Food Ideas
 
 - [Breakfast](#breakfast)
 - [BBQ](#bbq)
-- [Burgers, Steaks and Americana](#burgers-,-steaks-and-americana)
+- [Burgers, Steaks and Americana](#burgers,-steaks-and-americana)
 - [Pizza](#pizza)
 
 
@@ -142,6 +142,20 @@ Pizza and grill on International Drive
 ### NYPD 
 Pizza - takeout and sit in
 [Locations and website](https://www.nypdpizzeria.com/locations/){:target="\_blank"}
+
+# Other Stuff
+
+## Been Before and Want to Go Back
+
+### Bahama Breeze
+
+
+### Cheesecake Factory
+
+
+## Others
+
+
 
 
 

@@ -9,7 +9,7 @@ title: Florida 2022!
 
 [Food Ideas](https://stuartmonro.github.io/travel_folder/food 'Food ideas')
 
-[Stuff to do Outside the Parks]('Outside the parks')
+[Stuff to do Outside the Parks](https://stuartmonro.github.io/travel_folder/outsideparks 'Outside the parks')
 
 [In the Parks]('The main event')
 

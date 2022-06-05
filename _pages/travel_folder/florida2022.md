@@ -11,6 +11,6 @@ title: Florida 2022!
 
 [Stuff to do Outside the Parks](https://stuartmonro.github.io/travel_folder/outsideparks 'Outside the parks')
 
-[In the Parks](https://stuartmonro.github.io/travel_folder/parksnew 'The main event')
+[In the Parks](https://stuartmonro.github.io/travel_folder/parks 'The main event')
 
 

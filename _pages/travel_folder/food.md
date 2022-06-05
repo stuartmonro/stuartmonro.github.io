@@ -63,7 +63,7 @@ Burger joint, lots of recommendations. Maybe not quite as varied as Teak but pos
 ### Other Options
 
 #### BJs
-	Might be worth a visit - big menu - maybe too big and varied to be good?
+Might be worth a visit - big menu - maybe too big and varied to be good?
 Pizza, burgers, pasta, chicken, steak, lighter stuff, seafood
 [BJs website](https://www.bjsrestaurants.com/menu){:target="\_blank"}
 
@@ -91,9 +91,18 @@ Looks like a good burger joint, may be worth checking out
 ### Hash House a Go Go
 Hard to get an idea of the menu other than it looks like country food again (like Cracker Barrel and Cheddar's Scratch Kitchen) highly recommended though on the Dibb. Some alternative suggestions on the Dibb that Hash Houses in general are quantity over quality
 
+# BBQ
+
+
 # Pizza
 
+### Uno
+Pizza and grill on International Drive
+[Website](https://www.unos.com/menus/){:target="\_blank"}
 
+### NYPD 
+Pizza - takeout and sit in
+[Locations and website](https://www.nypdpizzeria.com/locations/){:target="\_blank"}
 
 
 

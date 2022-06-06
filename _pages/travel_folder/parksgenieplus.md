@@ -4,7 +4,7 @@ permalink: /travel_folder/parksgenieplus/
 title: Genie Plus Guide
 ---
 
-This whole page is copied from a post on the Dibb forum which really outlines everything we need to know about Genie plus
+*This whole page is copied from a post on the Dibb forum which really outlines everything we need to know about Genie plus*
 
 For those who don't know much about how G+ works yet, I posted this on another thread and thought it might be useful here too.
 
@@ -55,8 +55,9 @@ If you're just doing a morning, the best option is to book your first one as clo
 
 <span style="color:green">
 A good tip is that if you lose track or get totally lost about when you can book your next ride just try to book one, and if it’s not time yet a screen will pop up showing the time you can book your next one.
+</span>
 
-
+<span style="color:green">
 You can stack G+ which is useful if you want to go to a park in the afternoon or evening. Eg: book your first ride at 7am. Then 2 hours after park opening, you can book another, so at 11am if the park opens at 9am. 2 hours after that, you can book another, so at 1pm, 2 hours after that at 3pm, you can book another, and so on. So if you plan an afternoon/evening visit, you could potentially have 4-5 rides booked up, all subject to availability.
 </span>
 

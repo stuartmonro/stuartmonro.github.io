@@ -3,6 +3,17 @@ layout: page
 permalink: /travel_folder/parkstips/
 title: Parks Tips and Tricks
 ---
+-[Timing](#timing)
+-[Filler Attractions](#filler-attractions)
+-[Taking a Break](#taking-a-break)
+-[Weather](#weather)
+-[Fireworks](#fireworks)
+-[Food in the Parks](#food-in-the-parks)
+-[GeniePlus and Lightning Lanes](#genieplus-and-lightning-lanes)
+-[Other Things to Do](#other-things-to-do)
+-[Getting Around](#getting-around)
+-[Shopping in the Parks](#shopping-in-the-parks)
+
 # Timing
 
 Although the crowds this year are generally accepted to be mental, there are a few things worth considering - it will still always be less busy during the week than at the weekend
@@ -110,7 +121,7 @@ Swirls on the Water at Disney Springs sells Dole Whips
 
 If we must get snacks before fireworks - try some of the mobile carts outside of the main street area for little or no wait
 
-# Genie+ and Lightning Lanes
+# GeniePlus and Lightning Lanes
 Check LL availability before paying for G+
 Do this by checking the Disney Genie tip board 
 Don't forget that return windows will change throughout the day

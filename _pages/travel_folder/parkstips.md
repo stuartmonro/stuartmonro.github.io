@@ -124,7 +124,7 @@ G+ can be used in more than one park per day if you want to go park hopping - do
 [See also the G+ guide](https://stuartmonro.github.io/travel_folder/parksgenieplus 'G+')
 
 # Other Things to Do
-Check out [Fun and free on the Disney Food blog](https://www.disneyfoodblog.com/funandfree){target="\_blank"} 
+Check out [Fun and free on the Disney Food blog](https://www.disneyfoodblog.com/funandfree){:target="\_blank"} 
 
 Hoe down in front of Country Bear Jamboree in Frontierland - watch the cast members and characters do some line dancing, not set time so ask cast members when the Hoe Down is happening
 

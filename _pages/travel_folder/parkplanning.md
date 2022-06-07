@@ -14,18 +14,26 @@ The following sites provide some form of busy day guide, how accurate these are 
 
 We have made the following park reservations
 
-| Day |Park|
-|--------|--------|
-|Thur 7th | Magic Kingdom |
-|Fri 8th |Magic Kingdom |
-|Sat 9th |Epcot |
-|Sun 10th |Hollywood Studios |
-|Mon 11th |Magic Kingdom |
-|Tue 12th |Epcot |
-|Wed 13th |Hollywood Studios |
-|Thur 14th |Magic Kingdom |
-|Fri 15th |Epcot |
-|Sat 16th |Hollywood Studios |
-|Sun 17th |Magic Kingdom |
-|Mon 18th |Epcot |
-|Tue 19th |Hollywood Studios |
+| Day |Park|Open|Close|
+|--------|--------|--------|--------|
+|Thur 7th | Magic Kingdom |09:00 | 22:00|
+|Fri 8th |Magic Kingdom |09:00 | 22:00|
+|Sat 9th |Epcot |09:00 | 21:00|
+|Sun 10th |Hollywood Studios |09:00 | 21:00|
+|Mon 11th |Magic Kingdom |09:00 | 22:00|
+|Tue 12th |Epcot |09:00 | 21:00|
+|Wed 13th |Hollywood Studios |09:00 | 21:00|
+|Thur 14th |Magic Kingdom |09:00 | 22:00|
+|Fri 15th |Epcot |09:00 | 21:00|
+|Sat 16th |Hollywood Studios |09:00 | 21:00|
+|Sun 17th |Magic Kingdom |09:00 | 22:00|
+|Mon 18th |Epcot |09:00 | 21:00|
+|Tue 19th |Hollywood Studios |09:00 | 21:00|
+
+|Park|Open|Close|
+|--------|--------|--------|
+| Disney Springs|10:00 |23:00 |
+| Typhoon Lagoon | 10:00 |19:00 |
+| Universal Studios|09:00 |21:00 |
+| Islands of Adventure|09:00 |22:00 |
+| Volcano Bay|10:00 |19:00 |

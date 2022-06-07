@@ -30,6 +30,8 @@ We have made the following park reservations
 |Mon 18th |Epcot |09:00 | 21:00|
 |Tue 19th |Hollywood Studios |09:00 | 21:00|
 
+
+
 |Park|Open|Close|
 |--------|--------|--------|
 | Disney Springs|10:00 |23:00 |

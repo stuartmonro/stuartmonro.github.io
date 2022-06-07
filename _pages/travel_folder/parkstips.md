@@ -3,16 +3,16 @@ layout: page
 permalink: /travel_folder/parkstips/
 title: Parks Tips and Tricks
 ---
--[Timing](#timing)
--[Filler Attractions](#filler-attractions)
--[Taking a Break](#taking-a-break)
--[Weather](#weather)
--[Fireworks](#fireworks)
--[Food in the Parks](#food-in-the-parks)
--[GeniePlus and Lightning Lanes](#genieplus-and-lightning-lanes)
--[Other Things to Do](#other-things-to-do)
--[Getting Around](#getting-around)
--[Shopping in the Parks](#shopping-in-the-parks)
+- [Timing](#timing)
+- [Filler Attractions](#filler-attractions)
+- [Taking a Break](#taking-a-break)
+- [Weather](#weather)
+- [Fireworks](#fireworks)
+- [Food in the Parks](#food-in-the-parks)
+- [GeniePlus and Lightning Lanes](#genieplus-and-lightning-lanes)
+- [Other Things to Do](#other-things-to-do)
+- [Getting Around](#getting-around)
+- [Shopping in the Parks](#shopping-in-the-parks)
 
 # Timing
 

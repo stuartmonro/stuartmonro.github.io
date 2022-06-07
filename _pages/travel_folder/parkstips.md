@@ -121,6 +121,8 @@ Look for DFBGuide Vlog on G+
 
 G+ can be used in more than one park per day if you want to go park hopping - don’t forget that park hopping needs a reservation
 
+[See also the G+ guide](https://stuartmonro.github.io/travel_folder/parksgenieplus 'G+')
+
 # Other Things to Do
 Check out disneyfoodblog.com/funandfree 
 

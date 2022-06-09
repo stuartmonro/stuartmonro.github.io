@@ -51,7 +51,7 @@ A promising looking breakfast / brunch / lunch type option
 
 [Panera Bread website](https://www.panerabread.com/){:target="\_blank"}
 
-# 
+# Independents
 
 #### Yellow Dog Eats
 Described as quirky, cozy, unique and difficult to find(!) reviews are pretty good. BBQ, sandwiches, wraps, tacos, nachos, salads and scooby snacks

@@ -6,6 +6,7 @@ title: Food Ideas
 # Index
 
 - [Breakfast](#breakfast)
+- [Independents](#independents)
 - [BBQ](#bbq)
 - [Burgers, Steaks and Americana](#burgers-steaks-and-americana)
 - [Pizza](#pizza)
@@ -49,6 +50,46 @@ The one near Walgreens on the 192 and the one at Lake Buena Vista are both recom
 A promising looking breakfast / brunch / lunch type option
 
 [Panera Bread website](https://www.panerabread.com/){:target="\_blank"}
+
+# 
+
+#### Yellow Dog Eats
+Described as quirky, cozy, unique and difficult to find(!) reviews are pretty good. BBQ, sandwiches, wraps, tacos, nachos, salads and scooby snacks
+
+[website](https://yellowdogeats.com){:target="\_blank"}
+
+#### Maxines on Shine
+
+Community café which gets really good reviews on Tripadvisor
+- Brunch Friday - Sunday 10am-3pm
+- Dinner  Thursday - Saturday 5pm - 9pm
+
+Menus not available
+
+[website](https://maxinesonshine.com){:target="\_blank"}
+
+
+#### Pom Pom's Tea House and Sandwicheria
+
+Tea (the drink) sandwiches and salads good reviews
+
+[website](http://pompomsteahouse.com){:target="\_blank"}
+
+
+#### Black Bean Deli
+
+Cuban "comfort food" gets decent professional reviews, Tripadvisor is a little more mixed but also doesn’t have many reviews in general. May be worth checking out
+
+[website](https://blackbeandeli.com){:target="\_blank"}
+
+
+#### Tako Cheena
+
+Mexican / Asian fusion that started as a food truck
+Decent reviews and the menu looks interesting, sounds like it could be worth a visit if not too far away
+
+[website](https://takocheena.net){:target="\_blank"}
+
 
 # BBQ
 

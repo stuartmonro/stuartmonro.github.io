@@ -18,8 +18,10 @@ A private air museum open Thurs - Sun 9am to 5pm and near KSC. $20 per person
 
 Disney has two mini golf courses and I think these are both included in our Disney tickets. We should check this when we pick the tickets up on day 1. The two courses are:
 
-- [Fantasia Gardens](https://www.disneyworld.co.uk/recreation/fantasia-gardens-fairways-miniature-golf/){:target="\_blank"} [location](https://goo.gl/maps/gzfYXLAJmRYs3VCH6){:target="\_blank"}
-- [Winter Summerland](https://www.disneyworld.co.uk/recreation/winter-summerland-miniature-golf/){:target="\_blank"} [location](https://goo.gl/maps/Qw413KUNVaNqowtq7){:target="\_blank"}
+- [Fantasia Gardens](https://www.disneyworld.co.uk/recreation/fantasia-gardens-fairways-miniature-golf/){:target="\_blank"} 
+  - [location](https://goo.gl/maps/gzfYXLAJmRYs3VCH6){:target="\_blank"}
+- [Winter Summerland](https://www.disneyworld.co.uk/recreation/winter-summerland-miniature-golf/){:target="\_blank"} 
+  - [location](https://goo.gl/maps/Qw413KUNVaNqowtq7){:target="\_blank"}
 
 ## Congo River Golf
 Think this is the one next door to where we stayed last time we were there. According to TripAdvisor it's the number 1 mini golf course in the area

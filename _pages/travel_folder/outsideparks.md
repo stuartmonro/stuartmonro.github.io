@@ -14,11 +14,37 @@ A private air museum open Thurs - Sun 9am to 5pm and near KSC. $20 per person
 
 # Crazy Golf
 
+## Disney
+
+Disney has two mini golf courses and I think these are both included in our Disney tickets. We should check this when we pick the tickets up on day 1. The two courses are:
+
+- [Fantasia Gardens](https://www.disneyworld.co.uk/recreation/fantasia-gardens-fairways-miniature-golf/){:target="\_blank"}
+- [Winter Summerland](https://www.disneyworld.co.uk/recreation/winter-summerland-miniature-golf/){:target="\_blank"}
+
+## Congo River Golf
+Think this is the one next door to where we stayed last time we were there. According to TripAdvisor it's the number 1 mini golf course in the area
+
+[website](https://www.congoriver.com){:target="\_blank"}
+
+[location](https://goo.gl/maps/akytGoDP3RvXFLMH7){:target="\_blank"}
+
 ## Pirates Cove
 
 On international drive, close to Se&ntilde;or Frogs and Bahama Breeze
 
 [website](https://www.piratescove.net/locations/florida/orlando/){:target="\_blank"}
+
+There are two locations - [this one near Old Town Kissimmee](https://goo.gl/maps/nNLwzC13JpgoJR6T8){:target="\_blank"}
+
+[and this one on International Drive](https://goo.gl/maps/nNLwzC13JpgoJR6T8){:target="\_blank"}
+
+## Hawaiian Rumble
+
+Another one rated on TripAdvisor, people also seem to get excited by the gift shop here
+
+[website](https://www.hawaiianrumbleorlando.com){:target="\_blank"}
+
+[location](https://goo.gl/maps/nVKNq2Ko2fLRzH2y9){:target="\_blank"}
 
 
 # Places to Visit

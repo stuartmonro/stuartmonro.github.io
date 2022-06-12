@@ -114,6 +114,20 @@ American sandwiches, tacos and salads. They look like they could be quite good t
 
 [website](https://www.thegnarlybarley.com){:target="\_blank"}
 
+#### Ana's Brazillian Kitchen
+
+Seems to be popular with the local Brazillian expats which has to be a good sign. Check their Facebook page for opening times and details of what's on the menu each day as it seems to change. Looks to be reasonably central and they also get good reviews
+
+[website (Facebook)](https://www.facebook.com/anasbraziliankitchen){:target="\_blank"}
+
+[website with menu]](https://www.flowcode.com/page/anasbraziliankitchen){:target="\_blank"}
+
+#### Q'Kenan
+
+Apparently this is a very authentic Venezuelan restaurant. The menu looks interesting and the photos make it look like it could be worth a visit
+
+[website](https://qkenan.com){:target="\_blank"}
+
 
 # BBQ
 

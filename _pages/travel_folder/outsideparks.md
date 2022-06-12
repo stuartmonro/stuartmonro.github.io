@@ -120,4 +120,5 @@ Little Toot at Clearwater recommended on Dibb for dolphin spotting boats, but al
 
 # Rainy Day Options
 
-- Dezerland Park [website here](https://dezerlandpark.com/orlando/){:target="\_blank"} looks like it could be fun
+- Dezerland Park looks like it could be fun
+  - [website here](https://dezerlandpark.com/orlando/){:target="\_blank"} 

@@ -20,7 +20,7 @@ Although the crowds this year are generally accepted to be mental, there are a f
 
 We should make a list of the things we'd like to do before we go into the MK - it’s unlikely we'll be able to do everything in one day, but we also don't want to be zig-zagging across the park
 
-We should look to be sitting outside the TTC an hour before the park opens because we have to get parked, get through security & ticketing & get over to the park entrance. TTC usually only opens around 45min - 1 hour before the park opens
+We should look to be sitting outside the transportation and ticket centre (TTC) an hour before the park opens because we have to get parked, get through security & ticketing & get over to the park entrance. TTC usually only opens around 45min - 1 hour before the park opens
 
 When entering the park, scan the security entrances and look for ones with shorter queues - they will exist
 
@@ -34,8 +34,10 @@ Busy times in the parks are usually from around 10am - 6 - 8pm
 The parks tend to empty out after fireworks
 
 #### Splash Mountain
-If splash mountain doesn’t open on time (a common occurrence) hit the pirates of the Caribbean or jungle cruise. Jungle cruise is a good one to hit early because it’s a lot more popular just now as a result of the movie
+If splash mountain doesn’t open on time (a common occurrence) hit the Pirates of the Caribbean or Jungle Cruise. Jungle Cruise is a good one to hit early because it’s a lot more popular just now as a result of the movie.
+
 Early in the morning, Pirates should be quite a short queue as well, worth looking at after Jungle Cruise
+
 Splash Mountain will sit at around a 60 min wait for most of the day, so try and get it early (or G+ it)
 
 #### Seven Dwarves Mine Train
@@ -90,6 +92,7 @@ Epcot is a slower pace and more spread out
 Discuss a meeting point at the start of the day as somewhere we can regroup if we get separated
 
 Alternatively, leave the park and come back later - looks like mid to late morning might be a quieter time to get back in, but middle of the day is also the hottest part of the day and busiest
+
 Going out of the park early to mid afternoon for a meal is a good way to plan to be inside when it rains
 	
 Late afternoon, early evening (tea time) is a good time to hit the park again as a lot of people head out to get dinner
@@ -154,6 +157,7 @@ If we want to visit a Disney resort or hotel (such as Boardwalk) we can't park t
 
 Arrive at the park at least 30 min before rope drop (also need to factor in the time to park, the time to get from the car park to the entry and the time to get through security - so don’t rock up at the car park 30 min before opening) Recommendations from DFB is to get to the park 30 min before you think you'll be able to get in
 Parking opens 1.5 hours before official opening time
+
 Going to the Magic Kingdom, parking is at the transportation & ticket centre, we need to allow time to get from there to the park itself - either by ferry, bus or monorail
 
 # Shopping in the Parks

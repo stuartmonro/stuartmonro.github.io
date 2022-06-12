@@ -122,6 +122,12 @@ Seems to be popular with the local Brazillian expats which has to be a good sign
 
 [website with menu](https://www.flowcode.com/page/anasbraziliankitchen){:target="\_blank"}
 
+#### Border Grill Fresh Mex
+
+Some good reviews on Tripadvisor, typical Mexican style place - burritos, enchiladas, quesadillas, tacos and so on. Not too far from Universal, not open on Sunday.
+
+[website](https://mhme.nu/lp/bgfm){:target="\_blank"}
+
 #### Q'Kenan
 
 Apparently this is a very authentic Venezuelan restaurant. The menu looks interesting and the photos make it look like it could be worth a visit

@@ -3,6 +3,12 @@ layout: page
 permalink: /travel_folder/outsideparks/
 title: Outside the Parks
 ---
+- [NASA](#nasa)-
+- [Crazy Golf](#crazy-golf)
+- [Places to visit](#places-to-visit)
+- [Beaches and the Coast](#beaches-and-the-coast)
+- [Rainy Days](#rainy-day-options)
+
 # NASA
 
 We have tickets booked for [Kennedy Space Centre](https://www.kennedyspacecenter.com){:target="\_blank"}

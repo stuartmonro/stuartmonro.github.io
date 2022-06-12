@@ -16,7 +16,7 @@ A private air museum open Thurs - Sun 9am to 5pm and near KSC. $20 per person
 
 ## Pirates Cove
 
-On international drive, close to Senor Frogs and Bahama Breeze
+On international drive, close to Se&ntilde;or Frogs and Bahama Breeze
 
 [website](https://www.piratescove.net/locations/florida/orlando/){:target="\_blank"}
 

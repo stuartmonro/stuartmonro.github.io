@@ -90,6 +90,30 @@ Decent reviews and the menu looks interesting, sounds like it could be worth a v
 
 [website](https://takocheena.net){:target="\_blank"}
 
+#### Bosphorous Turkish Cusine
+
+There are 4 of these - so something of a mini-chain. The lunch menu looks a bit limited (kebabs mostly), the dinner menu looks more interesting. Gets great reviews on TripAdvisor so could be worth checking out as something a bit different from the "typical" Orlando offering
+
+[website](https://www.bosphorousrestaurant.com){:target="\_blank"}
+
+#### The Mexican Camel
+
+A "quick service" restaurant - so somewhere between fast food and normal sit down meals. This place sounds and looks like it's similar to Chipotle but gets great reviews on Tripadvisor. Appears to be a single location on I-Drive and they claim to mix Mexican and Mediterranean cusines, so could be interesting.
+
+[website](https://themexicancamel.com){:target="\_blank"}
+
+#### Tomatoes
+
+Another Turkish / Mediterranean style place. Not many reviews on TripAdvisor and they're all 5 star. Either this place is very new or they're at it. Website also very limited so likely this place would only be worth trying out if it's local
+
+[website](http://tomatoesrestaurants.com){:target="\_blank"}
+
+#### The Gnarly Barley
+
+American sandwiches, tacos and salads. They look like they could be quite good though and get good reviews
+
+[website](https://www.thegnarlybarley.com){:target="\_blank"}
+
 
 # BBQ
 

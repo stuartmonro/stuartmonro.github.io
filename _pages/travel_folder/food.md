@@ -18,12 +18,12 @@ title: Food Ideas
 ### Recommended
 
 #### Cracker Barrel
-According to Dibb they're _way_ better than IHOP for pancakes
+Apparently they're _way_ better than IHOP for pancakes
 
 Also good for lunch
 
 #### First Watch
-For breakfast and brunch. Recommended on Dibb
+For breakfast and brunch. Recommended. 
 
 [First Watch website](https://www.firstwatch.com/?version=core){:target="\_blank"}
 
@@ -240,7 +240,7 @@ Pizza and grill on International Drive
 [Website](https://www.unos.com/menus/){:target="\_blank"}
 
 ### NYPD 
-Pizza - takeout and sit in
+Pizza - takeout and sit in. This place consistently comes top on loads of different websites when rating places to eat in general, so we should probably check them out. 
 
 [Locations and website](https://www.nypdpizzeria.com/locations/){:target="\_blank"}
 
@@ -282,7 +282,7 @@ Japanese style steakhouse
 ## Fast Food
 
 - Chick-fil-a (need to remember to try the Polynesian style dipping sauce)
-- Publix - good for subs and also for roast or friend chicken to take away. Apparently their coleslaw is good too
+- Publix - good for subs and also for roast or fried chicken to take away. Apparently their coleslaw is good too
 - Little Greek Fresh Grill  - upmarket style kebab shop [website](https://littlegreekfreshgrill.com/menu/){:target="\_blank"}
 - Snacks at Disney Springs [link to Disney Food Blog](https://www.disneyfoodblog.com/2022/03/21/9-of-the-best-snacks-under-10-in-disney-springs/){:target="\_blank"}
 

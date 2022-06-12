@@ -120,7 +120,7 @@ Seems to be popular with the local Brazillian expats which has to be a good sign
 
 [website (Facebook)](https://www.facebook.com/anasbraziliankitchen){:target="\_blank"}
 
-[website with menu]](https://www.flowcode.com/page/anasbraziliankitchen){:target="\_blank"}
+[website with menu](https://www.flowcode.com/page/anasbraziliankitchen){:target="\_blank"}
 
 #### Q'Kenan
 

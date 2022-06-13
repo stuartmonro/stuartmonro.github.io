@@ -5,6 +5,7 @@ title: Food Ideas
 ---
 # Index
 
+- [Dole Whip](#dole-whip)
 - [Breakfast](#breakfast)
 - [Independents](#independents)
 - [BBQ](#bbq)
@@ -12,6 +13,9 @@ title: Food Ideas
 - [Pizza](#pizza)
 - [Other Stuff](#other-stuff)
 
+# Dole Whip
+
+Really the only reason for going to Orlando at all! All the Dole Whip locations [are listed at this link](https://disneywithdavesdaughters.com/dole-whip-at-walt-disney-world/){:target="\_blank"}
 
 # Breakfast
 

@@ -122,3 +122,5 @@ Little Toot at Clearwater recommended on Dibb for dolphin spotting boats, but al
 
 - Dezerland Park looks like it could be fun
   - [website here](https://dezerlandpark.com/orlando/){:target="\_blank"} 
+  
+- Cinema - Universal are currently offering free parking if you buy 2 or more cinema tickets for showings before 6pm

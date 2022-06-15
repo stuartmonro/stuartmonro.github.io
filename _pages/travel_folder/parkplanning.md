@@ -39,3 +39,25 @@ The opening times for the other parks are below. We have tickets to Universal wh
 | Universal Studios|09:00 |21:00 |
 | Islands of Adventure|09:00 |22:00 |
 | Volcano Bay|10:00 |19:00 |
+
+# Addresses
+
+## Universal
+6000 Universal Boulevard
+Orlando
+FL 32819
+
+For Volcano Bay go to the Universal parking garage and then take the complementary Volcano Bay shuttle
+
+Regular parking is $27 for the day
+
+## Disney
+Get on the Interstate 4 and then take the following exits:
+
+- Exit 67: Epcot, Disney Springs, Boardwalk, Typhoon Lagoon
+- Exit 65: Hollywood Studios
+- Exit 64: Magic Kingdom
+
+Regular parking is $25 for the day across all 4 theme parks (allowing park hopping at no extra parking cost), or $45 for preferred parking (getting you closer to the front). 
+
+Disney Springs and Typhoon Lagoon parking is free. 

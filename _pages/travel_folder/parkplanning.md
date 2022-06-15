@@ -40,7 +40,7 @@ The opening times for the other parks are below. We have tickets to Universal wh
 | Islands of Adventure|09:00 |22:00 |
 | Volcano Bay|10:00 |19:00 |
 
-# Addresses
+# Addresses & Parking
 
 ## Universal
 6000 Universal Boulevard
@@ -61,3 +61,5 @@ Get on the Interstate 4 and then take the following exits:
 Regular parking is $25 for the day across all 4 theme parks (allowing park hopping at no extra parking cost), or $45 for preferred parking (getting you closer to the front). 
 
 Disney Springs and Typhoon Lagoon parking is free. 
+
+Parking at Disney Resorts usually opens around 1 hour before early park entry - so 1.5 hours before scheduled opening time. 

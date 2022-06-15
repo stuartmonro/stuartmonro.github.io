@@ -30,7 +30,7 @@ We have made the following park reservations
 |Mon 18th |Epcot |09:00 | 21:00|
 |Tue 19th |Hollywood Studios |09:00 | 21:00|
 
-The opening times for the other parks are below. We have tickets to Universal which covers Universal Studios, Islands of Adventure and Volcano Bay. Our Disney ticket will also cover entry to Typhoon Lagoon. Sadly it seems that Disney's Blizzard Beach is closed this year. Disney Springs isn;t a park, more an eating and shopping area but well worth visiting. Universal has something similar which we have to walk through to get into the Universal parks, so it doesn't need to be covered separately. 
+The opening times for the other parks are below. We have tickets to Universal which covers Universal Studios, Islands of Adventure and Volcano Bay. Our Disney ticket will also cover entry to Typhoon Lagoon. Sadly it seems that Disney's Blizzard Beach is closed this year. Disney Springs isn;t a park, more an eating and shopping area but well worth visiting. Universal has something similar called CityWalk which we have to walk through to get into the Universal parks, so it doesn't need to be covered separately. CityWalk is open from 8am to midnight every day
 
 |Park|Open|Close|
 |--------|--------|--------|

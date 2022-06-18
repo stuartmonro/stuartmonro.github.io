@@ -61,6 +61,10 @@ Another one rated on TripAdvisor, people also seem to get excited by the gift sh
 ### Celebration
 Supposedly this is a little bit nicer than Old Town Kissimmee. It's basically somewhere to go for a wander round, shopping, dining and a farmer's market every Sunday. 
 
+Apparently parking in the shopping area is pretty easy, except at really busy times it should be possible to park (for free) on Front Street or Market Street. If parking kerbside, always make sure to park in the direction of travel. There's also apparently "acres" of free parking behind the shops on both sides of Market Street - this is basically the parking lot for the Celebration Town Centre shopping centre [link here](https://g.page/celebrationtowncenter?share){:target="\_blank"} or at the back of Upper Crust Pizza. 
+
+[Kilwins](https://www.kilwins.com/stores/kilwins-celebration){:target="\_blank"} supposedly do good ice cream and going for a drive around the neighbourhoods is recommended just to see the way the houses are set out and decorated. Jeeter Bend neighbourhood is mentioned a few times. 
+
 [Celebration website](https://celebrationtowncenter.com){:target="\_blank"}
 
 

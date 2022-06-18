@@ -4,7 +4,12 @@ permalink: /travel_folder/parksgenieplus/
 title: Genie Plus Guide
 ---
 
-*This whole page is copied from a post on the Dibb forum which really outlines everything we need to know about Genie plus*
+- [Overview](#overview)
+- [Guardians of the Galaxy](#guardians-of-the-galaxy-at-epcot)
+
+# Overview of Genie Plus
+
+*This whole section is copied from a post on the Dibb forum which really outlines everything we need to know about Genie plus*
 
 For those who don't know much about how G+ works yet, I posted this on another thread and thought it might be useful here too.
 
@@ -72,3 +77,31 @@ The terms lightning lane (LL) and Individual Lightning Lane selection (ILLS) can
 - You do not have to buy G+ in order to book ILLS. You can book them separately.
 
 I've found the best way to learn and understand it has been to watch the vlogs that Molly at Allears has done. There was a loophole at the beginning of its release that allowed you to book more, but that was closed at the end of November, so vlogs after that would be the most accurate, but some of the early ones explain the basics well too
+
+# Guardians of the Galaxy at Epcot
+
+The newest ride at Epcot is in high demand, there seems to be two ways of getting on to it - virtual queue or individual lightning lane (ILL)
+
+## Virtual Queue
+
+You join the virtual queue through MDE, it appears that there are two opportunities to do this during the day - at 7am and 1pm (after entering the park for the 1pm one apparently). These go very, very quickly - within seconds, so we need to be on the ball and the recommendation is to have more than one person trying at the same time. Received wisdom is that the 1pm slot is less competitive.
+
+It seems that the way this works is we'll be given a group number which is our place in the virtual queue. We need to make sure everyone is registered in MDE with their tickets linked. Then when we enter the virtual queue and press join, we should see everyone listed in our group and we can make sure they're all included. We won't find out until we then press join if the queue is full, or what our group number is. Assuming success *take a screenshot*. Once you have a number you need to keep an eye on the boarding time as this starts out as an estimate and will firm up as the morning goes on. It isn't unknown for the initial time to be over an hour out of when you eventually get on. 
+
+### Tips for success
+
+- Everyone with a mobile phone should attempt this at the same time
+- Make sure your whole group is on your friends and family list
+- Don't waste time making sure everyone is selected before joining as this can make the difference between success and failure - seconds count. Everyone eligible will be pre-selected.
+	- If anyone is missed out, a cast member should be able to help with this
+- If trying to do this in the park, don't use Disney wi-fi as it's slow. Use data coverage instead
+- Practice from home
+- Use a seconds counting app to get as close to 7am as possible
+	- Compare the time on your own phone to the one on [time.gov](https://time.gov){:target="\_blank"}  as this is what Disney uses.
+- Refresh the app before starting this by logging out and in again (in advance!)
+- After refreshing the app, go into the virtual queue page and come oput again to make sure it's cached and will launch faster
+
+
+## ILL
+
+This is basically the option of paying extra to try and get a guaranteed space in the queue. You buy it through Disney Genie on My Disney Experience, however we can't make this booking until the park opens - by which time it's likely that most of the ILL slots for the ride for the day will be gone. 

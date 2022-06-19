@@ -21,9 +21,11 @@ Please make yourself known to the Virgin Rep at the podium on the A side for you
 
 ### Visitors Toll Pass (VTP)
 
-Remember to add the reg for the car into the VTP app. The advice that VTP have provided in response to a question about not telling Alamo that you're using VTP was this:
+Remember to add the reg for the car into the VTP app. To do this, go to *Account > Trip Information > Update Licence Plate*. The advice that VTP have provided in response to a question about not telling Alamo that you're using VTP was this:
 
+<span style="color:#B40404">
 *In brief when you register your license plate on our app you get registered on our system. When you go through a toll it doesn't get immediately reported to the toll agency its program follows a type of waterfall system and our program is at the very top so when you go through a toll it gets reported to us 1st*
+</span>
 
 This addresses the concern about being double-charged by both VTP and Alamo. The response above indicates that VTP won't pass on the charge to Alamo so we don't need to worry about it.
  

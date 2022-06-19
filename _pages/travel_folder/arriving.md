@@ -19,7 +19,7 @@ If you have checked in online, you can proceed directly to the garage where you 
 
 Please make yourself known to the Virgin Rep at the podium on the A side for your villa directions before leaving the terminal.
 
-### Visitors Toll pAss (VTP)
+### Visitors Toll Pass (VTP)
 
 Remember to add the reg for the car into the VTP app. The advice that VTP have provided in response to a question about not telling Alamo that you're using VTP was this:
 

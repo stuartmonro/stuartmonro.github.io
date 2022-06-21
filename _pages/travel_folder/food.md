@@ -144,7 +144,7 @@ Apparently this is a very authentic Venezuelan restaurant. The menu looks intere
 ## TripAdvisor top 3
 
 ### 4 Rivers Smokehouse
-One of the top 3 on Tripadvisor, also recommended on Dibb
+<span style="color:#FF0040">Recommended by Madeline</span> and one of the top 3 on Tripadvisor.
 
 [website](https://www.4rsmokehouse.com/menu/){:target="\_blank"}
 

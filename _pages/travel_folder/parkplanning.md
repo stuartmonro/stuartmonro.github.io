@@ -38,7 +38,8 @@ The opening times for the other parks are below. We have tickets to Universal wh
 | Typhoon Lagoon | 10:00 |19:00 |
 | Universal Studios|09:00 |21:00 |
 | Islands of Adventure|09:00 |22:00 |
-| Volcano Bay|10:00 |19:00 |
+| Volcano Bay (Mon-Thur)|10:00 |19:00 |
+| Volcano Bay (Fri-Sun)|09:00|21:00|
 
 # Addresses & Parking
 

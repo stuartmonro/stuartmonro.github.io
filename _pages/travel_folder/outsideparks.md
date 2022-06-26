@@ -127,4 +127,7 @@ Little Toot at Clearwater recommended on Dibb for dolphin spotting boats, but al
 - Dezerland Park looks like it could be fun
   - [website here](https://dezerlandpark.com/orlando/){:target="\_blank"} 
   
+- Orlando Science Centre - looks similar to Glasgow so more kid oriented, but might be an option
+	- [website here](https://www.osc.org){:target="\_blank"}
+  
 - Cinema - Universal are currently offering free parking if you buy 2 or more cinema tickets for showings before 6pm

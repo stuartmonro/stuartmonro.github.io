@@ -84,7 +84,7 @@ The newest ride at Epcot is in high demand, there seems to be two ways of gettin
 
 ## Virtual Queue
 
-You join the virtual queue through MDE, it appears that there are two opportunities to do this during the day - at 7am and 1pm (after entering the park for the 1pm one apparently). These go very, very quickly - within seconds, so we need to be on the ball and the recommendation is to have more than one person trying at the same time. Received wisdom is that the 1pm slot is less competitive.
+You join the virtual queue through MDE, it appears that there are two opportunities to do this during the day - at 7am and 1pm (according to the Disney.co.uk websoite you need to be *in* the park for the 1pm slot). These go very, very quickly - within seconds, so we need to be on the ball and the recommendation is to have more than one person trying at the same time. Received wisdom is that the 1pm slot is less competitive.
 
 It seems that the way this works is we'll be given a group number which is our place in the virtual queue. We need to make sure everyone is registered in MDE with their tickets linked. Then when we enter the virtual queue and press join, we should see everyone listed in our group and we can make sure they're all included. We won't find out until we then press join if the queue is full, or what our group number is. Assuming success *take a screenshot*. Once you have a number you need to keep an eye on the boarding time as this starts out as an estimate and will firm up as the morning goes on. It isn't unknown for the initial time to be over an hour out of when you eventually get on. 
 

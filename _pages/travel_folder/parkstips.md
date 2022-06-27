@@ -119,7 +119,7 @@ OR - if you care less about the projections and just want to see the fireworks, 
 
 Think about what we did before which was to leave as the show starts and watch it all from the back of the ferry
 
-Another option for watching the fireworks at MK is to leave the park and get the monorail or the ferry to the Polynesian Village resort. Apparently from there you can watch the fireworks across the water whilst having a Dole Whip. Probably need to check the Dole Whip thing out a bit more, the resort is just next to the TTC and so easy enough to get back to the car after the show & ahead of the queues.
+Another option for watching the fireworks at MK is to leave the park and get the monorail or the ferry to the Polynesian Village resort. Apparently from there you can watch the fireworks across the water whilst having a dole whip from the [Pineapple Lanai](https://www.disneyworld.co.uk/dining/polynesian-resort/pineapple-lanai/){:target="\_blank"}. The resort is just next to the TTC and so should be easy enough to get back to the car after the show & ahead of the crowds. 
 
 # Food in the Parks
 If mobile order "vanishes" from the main screen in MDE, it should still be available in the mobile food orders menu

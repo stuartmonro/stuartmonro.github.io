@@ -113,9 +113,13 @@ A decent spot to watch the fireworks from (and also to make a sharp exit afterwa
 
 Alternatively, at the back of the castle hub behind the partners statue - you can see all of the fireworks plus the projections
 
-Also think about what we did before which was to leave as the show starts and watch it all from the back of the ferry
-
 OR - if you care less about the projections and just want to see the fireworks, go to the back of Fantasyland and watch from behind the carousel
+
+## Outside the Park
+
+Think about what we did before which was to leave as the show starts and watch it all from the back of the ferry
+
+Another option for watching the fireworks at MK is to leave the park and get the monorail or the ferry to the Polynesian Village resort. Apparently from there you can watch the fireworks across the water whilst having a Dole Whip. Probably need to check the Dole Whip thing out a bit more, the resort is just next to the TTC and so easy enough to get back to the car after the show & ahead of the queues.
 
 # Food in the Parks
 If mobile order "vanishes" from the main screen in MDE, it should still be available in the mobile food orders menu

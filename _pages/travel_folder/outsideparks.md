@@ -88,6 +88,9 @@ A state park, would give something of a change of pace. Hiking, swimming, picnic
 
 [Park website here](https://www.floridastateparks.org/parks-and-trails/wekiwa-springs-state-park){:target="\_blank"}
 
+### Boat Hire at Disney
+It's possible to hire boats to pootle around the big lake at Disney and take in the sights from a different perspective. There's a [thread about it on the Dibb](https://www.thedibb.co.uk/forums/showthread.php?t=1228040){:target="\_blank"} and more details available from the [Disney website](https://www.disneyworld.co.uk/recreation/motorized-boats/){:target="\_blank"}. Looks like it costs $45 per half hour
+
 
 
 # Beaches and the Coast

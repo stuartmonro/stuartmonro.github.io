@@ -12,6 +12,7 @@ title: Outside the Parks
 # NASA
 
 We have tickets booked for [Kennedy Space Centre](https://www.kennedyspacecenter.com){:target="\_blank"}
+Advice from one of the bus drivers at KSC is to arrive at opening and go straight to the bus tour, by the time you get back there will already be a queue building. The opening hours are 9am to 6pm. 
 
 ### Valiant Air Command
 A private air museum open Thurs - Sun 9am to 5pm and near KSC. $20 per person 

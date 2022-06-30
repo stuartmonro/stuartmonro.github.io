@@ -36,6 +36,12 @@ This addresses the concern about being double-charged by both VTP and Alamo. The
 
 Sometimes the tolls from VTP don't show up on the app straight away and so don't be too concerned if you don't see them for a few days. Make sure you check the receipt from the hire company when returning the car to ensure there are no "hidden" charges like toll pass or fuel.
 
+### Car Hire Return
+
+Regardless of what it says on the Virgin documentation, we've hired the car for a set number of days. The time we have to return it is defined by the time when we picked it up, with a 29 minute grace period.
+
+So if we pick the car up at 5pm then we have to return it by 5.29pm on departure day. 
+
 
 
 

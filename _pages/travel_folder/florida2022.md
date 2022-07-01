@@ -13,4 +13,6 @@ title: Florida 2022!
 
 [In the Parks](https://stuartmonro.github.io/travel_folder/parksnew 'The main event')
 
+[Departing](https://stuartmonro.github.io/travel_folder/departing 'Leaving')
+
 

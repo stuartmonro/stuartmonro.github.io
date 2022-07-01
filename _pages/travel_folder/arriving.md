@@ -7,11 +7,13 @@ Terminal - Virgin flights arrive in terminal A (side A). This is where the Virgi
 
 We might need to go to the Virgin kiosk to get the villa details, otherwise we should be able to go straight to the car hire garage to pick up the car (after we've picked up the VTP thing).
 
-## From the Skip the Queue doc
+## From the Skip the Queue doc and from Virgin Holidays 
 
 Upon arrival, proceed to Immigration and then be directed to the Customs Hall to collect your luggage from Virgin Atlantic baggage belts.
 
 There is an option to put the luggage on the carousel belt after the customs hall to save having to carry it. Prevailing wisdom is to not do this as it can take hours to re-appear
+
+If you are arriving into Orlando International Airport, after picking up your luggage and clearing Customs, board the tram to the Main Terminal. Follow signs to Terminal A, and proceed to Level 1, Baggage Claim 8A. Even if you have your luggage, please follow these directions. Do not go to Terminal B. Our Virgin Holidays Reps will connect you with your pre booked transfer, car hire or taxi.
 
 Upon departing the shuttle, you will be tempted to follow the crowd to B side, please head to the fountain and make a right to the A side escalator to Level 1 and proceed to the Virgin Holidays podium. Apparently the A side is quieter.
 

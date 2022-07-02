@@ -297,8 +297,7 @@ This post copied [from the Dibb](https://DIBB.in/15394761){:target="\_blank"} ha
 
 <span style="color:#4B088A">
 I’m British; I live in Orlando and I’ve been a server for the past 5 years. I thought I’d give you an honest 1st person perspective on the whole tipping debate.
-
-Firstly, tipping is optional. Nobody is legally obligated to tip.
+<br>Firstly, tipping is optional. Nobody is legally obligated to tip.
 
 I get paid minimum wage which is $10 an hour. When I’m interacting with customers (most of my hours) this drops to $6.98 an hour. For simplicity, I’ll refer to this as $7 an hour going forwards. The minimum wage in Florida is set to increase by $1 an hour for the next 5 years capping out at $15 per hour. This changes each year on Oct 1st.
 

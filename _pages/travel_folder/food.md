@@ -293,7 +293,7 @@ Japanese style steakhouse
 
 ## Tipping
 
-This post copied from the Dibb has a good explanation of tipping. The main take away is that even if the service is bad we should tip 10% because otherwise that comes out of the servers pocket as they have to square up with the back of house staff.
+This post copied [from the Dibb](https://DIBB.in/15394761){:target="\_blank"} has a good explanation of tipping. The main take away is that even if the service is bad we should tip 10% because otherwise that comes out of the servers pocket as they have to square up with the back of house staff.
 
 <span style="color:#4B088A">
 I’m British; I live in Orlando and I’ve been a server for the past 5 years. I thought I’d give you an honest 1st person perspective on the whole tipping debate.

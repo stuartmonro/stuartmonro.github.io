@@ -4,6 +4,6 @@ title: Diving Stuff
 permalink: /diving/
 ---
 
-### Stuff will go here
+[Truk 2024](https://stuartmonro.github.io/diving_folder/truk2024 'Truk Lagoon')
 
 

@@ -87,7 +87,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-include: ['_pages', '_pages/travel_folder', '_pages/diving_folder']
+include: ['_pages', '_pages/travel_folder']
 
 paginate: 1
 paginate_path: /page:num/

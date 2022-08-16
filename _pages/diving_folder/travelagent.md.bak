@@ -33,7 +33,7 @@ Stuart has provided Cath with a list of all our names and she will coordinate wi
 
 ## The Quote
 
-The quote document received from Regal Dive [is available at this link](https://stuartmonro.github.io/diving_folder/StuartMonro_203857_Quote){:target="\_blank"}
+The quote document received from Regal Dive [is available at this link](https://stuartmonro.github.io/diving_folder/StuartMonro_203857_Quote.pdf){:target="\_blank"}
 
 There are a few points to note on the quote:
 - On page 4, the second line of the itinerary should show the departure points as Dubai, not Doha. Cath has confirmed this is a typo and she will amend it before the next version of the quote is issued

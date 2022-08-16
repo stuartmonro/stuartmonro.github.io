@@ -29,6 +29,8 @@ Payment can be made over the phone or by bank transfer, bank transfer is the pre
 Please also note that the quote and booking plans are based on 6 people travelling, for this reason please do not share this information with anyone else outside the established group. If other people want to join the trip, please ask them to contact Stuart to discuss it. 
 </span>
 
+Stuart has provided Cath with a list of all our names and she will coordinate with him to confirm when you have paid your deposits. Please can you let stuart know when you send the money over so he can keep an eye on things from our side.
+
 ## The Quote
 
 The quote document received from Regal Dive [is available at this link](https://stuartmonro.github.io/diving_folder/StuartMonro_203857_Quote){:target="\_blank"}

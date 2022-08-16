@@ -44,7 +44,9 @@ There are a few points to note on the quote:
 
 <span style="color:#B40404">
 VERY IMPORTANT - PLEASE NOTE: the total price per person that has been quoted (£4065.50) is based on *estimated* flight costs. It isn't possible for Cath to confirm what those costs will be until closer to our date of travel, likely 10-11 months. Her estimate has been based on a 5% increase year on year calculated against current flight prices.
+</span>
 
+<span style="color:#B40404">
 You must ensure you are happy with this level of uncertainty *before* you pay your deposit and commit to the trip. Payment of deposit will be taken as acceptance that the price may fluctuate.
 </span>
 

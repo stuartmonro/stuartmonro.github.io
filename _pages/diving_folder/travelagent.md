@@ -52,8 +52,6 @@ VERY IMPORTANT - PLEASE NOTE: the total price per person that has been quoted (Â
 You must ensure you are happy with this level of uncertainty *before* you pay your deposit and commit to the trip. Payment of deposit will be taken as acceptance that the price may fluctuate.
 </span>
 
-## Coming Soon
-
 ## Itinerary
 
 A detailed itinerary is available in the quote document. The summary is as follows (all dates are in 2024):
@@ -71,6 +69,7 @@ A detailed itinerary is available in the quote document. The summary is as follo
 
 Other than the overnights in Manila, there may be some long layover times in Dubai and Guam. Stuart will look into whether there are any options open to us in terms of lounges we may be able to get access to, just to make the wait more comfortable. Watch this space for more details. 
 
+## Coming Soon
 
 - Q and A
 

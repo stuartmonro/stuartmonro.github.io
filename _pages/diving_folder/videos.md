@@ -8,4 +8,4 @@ A collection of various videos showcasing Truk and diving there. If anyone finds
 
 | Description | Link |
 | ---------------| ------------------------- | 
-| Jacques Cousteau - Lagoon of Lost Ships. Supposedly this this the show that started it all when it showed that Truk was accessible to recreational divers | [Youtube link here](https://youtu.be/-jL2MLzMTyM){:target="\_blank"}|
+| Jacques Cousteau - Lagoon of Lost Ships. Supposedly this is the show that started it all when it showed that Truk was accessible to recreational divers | [Youtube link here](https://youtu.be/-jL2MLzMTyM){:target="\_blank"}|

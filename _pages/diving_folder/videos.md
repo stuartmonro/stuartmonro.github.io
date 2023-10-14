@@ -11,6 +11,7 @@ A collection of various videos showcasing Truk and diving there. If anyone finds
 | Description | Link | Length|
 | ---------------| ------------------------- | -------- |
 | (1971) Jacques Cousteau - Lagoon of Lost Ships. Supposedly this is the show that started it all when it showed that Truk was accessible to recreational divers | [Youtube](https://youtu.be/-jL2MLzMTyM){:target="\_blank"}| 49 min |
+| (2022) Scuba Diving on the Shipwrecks of Truk Lagoon | [Youtube](https://youtu.be/mnH3Zuro_e8?feature=shared){:target="\_blank"} | 4 min |
 | (2018) Truk Lagoon part 1 | [Vimeo](https://vimeo.com/256904648){:target="\_blank"} | 6 min |
 | (2018) Truk Lagoon part 2 | [Vimeo](https://vimeo.com/279966848){:target="\_blank"} | 6 min | 
 | (2016) Truk Lagoon 2016 | [Vimeo](https://vimeo.com/192882182){:target="\_blank"} | 9 min | 
@@ -29,3 +30,4 @@ A collection of various videos showcasing Truk and diving there. If anyone finds
 | Description | Link | Length|
 | ---------------| ------------------------- | -------- |
 | (2018) Truk Lagoon - Japan's Pearl Harbour. This is a private video, the password to view it is "Truk" | [Vimeo](https://vimeo.com/307093153){:target="\_blank} | 48 min |
+| (Old) Operation Hailstone the raid on Truk Lagoon | [Youtube](https://youtu.be/fPcLPPmOfJs?feature=shared){:target="\_blank"} | 10 min |

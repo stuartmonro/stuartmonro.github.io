@@ -4,7 +4,7 @@ title: Truk 2024
 permalink: /diving/
 ---
 
-Videos
+[Videos](https://stuartmonro.github.io/diving_folder/videos 'Vids')
 
 Questions and Answers
 

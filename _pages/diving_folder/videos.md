@@ -21,10 +21,12 @@ A collection of various videos showcasing Truk and diving there. If anyone finds
 
 ## Specific Wrecks
 
-| Description | Link | Length| Embed | 
-| ---------------| ------------------------- | -------- | ----------------- |
-| (2018) San Franciso Maru - one of many Rod Macdonald videos from Truk. Click on his name below the video to see more | [Youtube](https://youtu.be/-VGnShFvjm4){:target="\_blank"}| 13 min| |
-| (2017) Shinkoku Maru | [Vimeo](https://vimeo.com/304527494){:target="\_blank"} | 4 min | <iframe src="https://player.vimeo.com/video/304527494?h=a585d4a5a0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> |
+| Description | Link | Length| 
+| ---------------| ------------------------- | -------- | 
+| (2018) San Franciso Maru - one of many Rod Macdonald videos from Truk. Click on his name below the video to see more | [Youtube](https://youtu.be/-VGnShFvjm4){:target="\_blank"}| 13 min|
+| (2017) Shinkoku Maru | [Vimeo](https://vimeo.com/304527494){:target="\_blank"} | 4 min |
+
+<iframe src="https://player.vimeo.com/video/304527494?h=a585d4a5a0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> 
 
 
 ## History

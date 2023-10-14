@@ -17,21 +17,12 @@ A collection of various videos showcasing Truk and diving there. If anyone finds
 | (2012) Ghost Fleet of Truk Lagoon - part 1| [Youtube](https://youtu.be/5QRN4K3inDA){:target="\_blank"}| 15 min |
 | (2012) Ghost Fleet of Truk Lagoon - part 2 | [Youtube](https://youtu.be/WuxDs9-mtw4){:target="\_blank"}| 10 min |
 
-
 ## Specific Wrecks
 
 | Description | Link | Length| 
 | ---------------| ------------------------- | -------- | 
 | (2018) San Franciso Maru - one of many Rod Macdonald videos from Truk. Click on his name below the video to see more | [Youtube](https://youtu.be/-VGnShFvjm4){:target="\_blank"}| 13 min|
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-VGnShFvjm4?si=UVvTn8Zus0Kf6mWK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 | (2017) Shinkoku Maru | [Vimeo](https://vimeo.com/304527494){:target="\_blank"} | 4 min |
-
-
-<iframe src="https://player.vimeo.com/video/304527494?h=a585d4a5a0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> 
-
 
 ## History
 

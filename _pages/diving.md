@@ -8,7 +8,7 @@ permalink: /diving/
 
 Questions and Answers
 
-Useful Links
+[Useful Links](https://stuartmonro.github.io/diving_folder/links 'Links')
 
 
 

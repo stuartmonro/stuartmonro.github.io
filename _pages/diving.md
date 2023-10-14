@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Diving Stuff
+title: Truk 2024
 permalink: /diving/
 ---
 
-#Truk 2024
 Videos
+
+Questions and Answers
 
 Useful Links
 

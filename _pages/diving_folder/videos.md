@@ -11,7 +11,6 @@ A collection of various videos showcasing Truk and diving there. If anyone finds
 | Description | Link | Length|
 | ---------------| ------------------------- | -------- |
 | (1971) Jacques Cousteau - Lagoon of Lost Ships. Supposedly this is the show that started it all when it showed that Truk was accessible to recreational divers | [Youtube](https://youtu.be/-jL2MLzMTyM){:target="\_blank"}| 49 min |
-
 | (2018) Truk Lagoon part 1 | [Vimeo](https://vimeo.com/256904648){:target="\_blank"} | 6 min |
 | (2018) Truk Lagoon part 2 | [Vimeo](https://vimeo.com/279966848){:target="\_blank"} | 6 min | 
 | (2016) Truk Lagoon 2016 | [Vimeo](https://vimeo.com/192882182){:target="\_blank"} | 9 min | 
@@ -24,7 +23,12 @@ A collection of various videos showcasing Truk and diving there. If anyone finds
 | Description | Link | Length| 
 | ---------------| ------------------------- | -------- | 
 | (2018) San Franciso Maru - one of many Rod Macdonald videos from Truk. Click on his name below the video to see more | [Youtube](https://youtu.be/-VGnShFvjm4){:target="\_blank"}| 13 min|
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-VGnShFvjm4?si=UVvTn8Zus0Kf6mWK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 | (2017) Shinkoku Maru | [Vimeo](https://vimeo.com/304527494){:target="\_blank"} | 4 min |
+
 
 <iframe src="https://player.vimeo.com/video/304527494?h=a585d4a5a0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> 
 

@@ -5,6 +5,9 @@ permalink: /diving/
 ---
 
 #Truk 2024
+Videos
+
+Useful Links
 
 
 

@@ -4,6 +4,7 @@ title: Diving Stuff
 permalink: /diving/
 ---
 
-### Stuff will go here
+#Truk 2024
+
 
 

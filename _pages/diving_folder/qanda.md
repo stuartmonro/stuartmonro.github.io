@@ -12,7 +12,6 @@ title: Questions and Answers
 | Can we use manifolded twins and top them up with a whip between 1st and 2nd dives? | _waiting for travel agent_ |
 | Can we pay for 18 dives up front with an option to add another 6? | _waiting for travel agent_ |
 
-
 ## Travel
 
 | Question | Answer |
@@ -21,4 +20,9 @@ title: Questions and Answers
 | How do we let the Belmont hotel in Manila know if we're going to miss the first night of our reservation on the return leg? | _waiting for travel agent_ |
 | What is our luggage allowance on Emirates? (London/Glasgow - Dubai - Manila) | _waiting for travel agent_ |
 | What is our luggage allowance on United (Manila-Guam-Chuuk) | 2 bags of up to 23kg each |
+
+## Health
+
+| Question | Answer |
+| ------------------------- | ------------------------- |
 

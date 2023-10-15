@@ -18,7 +18,7 @@ title: Questions and Answers
 | Question | Answer |
 | ------------------------- | ------------------------- |
 | What are the airline booking details? <br>We'll need these for making seat reservations etc  | _waiting for travel agent_  |
-| How do we let the Belmont hotel in Manila know if we're going to miss the furst night of our reservation on the return leg? | _waiting for travel agent_ |
+| How do we let the Belmont hotel in Manila know if we're going to miss the first night of our reservation on the return leg? | _waiting for travel agent_ |
 | What is our luggage allowance on Emirates? (London/Glasgow - Dubai - Manila) | _waiting for travel agent_ |
 | What is our luggage allowance on United (Manila-Guam-Chuuk) | 2 bags of up to 23kg each |
 

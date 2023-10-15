@@ -8,5 +8,4 @@ title: Questions and Answers
 
 | Question | Answer |
 | ------------------------- | ------------------------- |
-| What are the airline booking details? 
-We'll need these for making seat reservations etc  | _waiting for travel agent_  |
+| What are the airline booking details? <br>We'll need these for making seat reservations etc  | _waiting for travel agent_  |

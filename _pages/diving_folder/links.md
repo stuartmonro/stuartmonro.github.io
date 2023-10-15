@@ -8,7 +8,6 @@ Various links that may prove helpful. If you want to add anything to this page p
 
 ## The Diving
 
-|  | 
 | ---------------| 
 | [How deep are the wrecks? This page has a useful graphic](https://masterliveaboards.com/how-deep-are-the-truk-lagoon-wrecks/){:target="\_blank"} |
 

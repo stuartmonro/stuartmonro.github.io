@@ -13,7 +13,6 @@ Various links that may prove helpful. If you want to add anything to this page p
 
 ## Visas and Stuff
 
-| What is it? |
 | ---------------| 
 | [ESTA website](https://www.cbp.gov/travel/international-visitors/esta){:target="\_blank"}|
 | [Philippines e-travel](https://etravel.gov.ph/){:target="\_blank"}|
@@ -23,14 +22,12 @@ Various links that may prove helpful. If you want to add anything to this page p
 
 ## Health Stuff
 
-| What is it? |
 | ---------------| 
 | [NHS Fit for Travel - useful travel advice on vaccinations](https://www.fitfortravel.nhs.uk/destinations/australasia-pacific/federated-states-of-micronesia){:target="\_blank"} |
 | [Travel Health pro (UK Dept of Health)](https://travelhealthpro.org.uk/country/148/micronesia){:target="\_blank"} |
 
 ## Where We're Staying
 
-| What is it? |
 | ---------------| 
 | [Blue Lagoon Resort, Chuuk](https://www.trukbluelagoonresort.com/){:target="\_blank"}  |
 | [Interesting recent review of the Blue Lagoon, worth a read](https://www.tripadvisor.co.uk/ShowUserReviews-g311328-d507122-r909415665-Truk_Blue_Lagoon_Resort-Chuuk.html){:target="\_blank"}  |

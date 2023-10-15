@@ -25,4 +25,5 @@ title: Questions and Answers
 
 | Question | Answer |
 | ------------------------- | ------------------------- |
+| Question goes here | Answer goes here | 
 

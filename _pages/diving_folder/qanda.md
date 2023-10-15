@@ -9,7 +9,7 @@ title: Questions and Answers
 | Question | Answer |
 | ------------------------- | ------------------------- |
 | Are the cylinder connections in Chuuk DIN or A-Clamp? | _waiting for travel agent_ |
-| Can we use manifolded twins and top them up with a whip between 1st and 2nd dives? | _waiting for travel agent |
+| Can we use manifolded twins and top them up with a whip between 1st and 2nd dives? | _waiting for travel agent_ |
 | Can we pay for 18 dives up front with an option to add another 6? | _waiting for travel agent_ |
 
 

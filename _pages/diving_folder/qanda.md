@@ -19,7 +19,7 @@ title: Questions and Answers
 | What are the airline booking details? <br>We'll need these for making seat reservations etc  | _Travel Agent 2023-10-19:_ We are not due to issue your Emirates flights until late February (at which point we can give you the reference number), but here is the United Airlines Ref if you wish to book seats via their website now: OFMPFV  |
 | How do we let the Belmont hotel in Manila know if we're going to miss the first night of our reservation on the return leg? | _Travel Agent 2023-10-19:_ This will be no problem. The first night will just go down as a no-show. You can of course email me in that event and I can let them know (however there may be a time lapse in me arriving to work!). If you have any issues checking in, our Manila ground agent Blue Horizons can assist. Their contact details will be on your Departure docs. |
 | What is our luggage allowance on Emirates? (London/Glasgow - Dubai - Manila) | _Travel Agent 2023-10-19:_ 30kg which can be split among numerous bags |
-| What is our luggage allowance on United (Manila-Guam-Chuuk) | Travel Agent 2023-10-19: 2 bags of up to 23kg each |
+| What is our luggage allowance on United (Manila-Guam-Chuuk) | <span style="color:red">_Travel Agent 2023-10-19:_</span> 2 bags of up to 23kg each |
 
 ## Health
 

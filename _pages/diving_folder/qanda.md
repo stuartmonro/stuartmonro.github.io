@@ -30,7 +30,7 @@ title: Questions and Answers
 
 | ------------------------- | ------------------------- |
 | Q | <span style="color:blue">What visa do we need for transitting through Guam (US territory)</span> |
-| A | <span style="color:red">_Travel Agent 2023-10-19:_</span> An ESTA. Make sure you only use the official ESTA application page <a href="https://www.cbp.gov/travel/international-visitors/esta" target="_blank">(link here)</a>. There are lots of sites out there on the web that charge you to submit an application on your behalf, you **absoultely do not** need to use one of those services.  | 
+| A | <span style="color:red">_Travel Agent 2023-10-19:_</span> An ESTA. Make sure you only use the official ESTA application page <a href="https://www.cbp.gov/travel/international-visitors/esta" target="_blank">(link here)</a>. There are lots of sites out there on the web that charge you to submit an application on your behalf, you **absolutely do not** need to use one of those services.  | 
 | Q | <span style="color:blue">What visa do we need for visiting the Philippines</span> |
 | A |  <span style="color:red">_Travel Agent 2023-10-19:_</span> We need to fill out our details on the Philippines e-travel system prior to entry in BOTH directions to the Philippines. The link to that site <a href="https://etravel.gov.ph/" target="_blank">is here</a> |
 

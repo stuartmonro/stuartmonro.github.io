@@ -6,11 +6,13 @@ title: Questions and Answers
 
 ## Diving
 
-| Question | Answer |
 | ------------------------- | ------------------------- |
-| Are the cylinder connections in Chuuk DIN or A-Clamp? | _Travel Agent 2023-10-19:_ Blue Lagoon have both types of cylinders but they are used to receiving technical divers, so DIN tanks are not an issue.  |
-| Can we use manifolded twins and top them up with a whip between 1st and 2nd dives? | _Travel Agent 2023-10-19:_  You are not able to top up cylinders on board the boat but the dive centre can load additional cylinders on board no problem. Many people go using twinsets and multiple stage cylinders so they are quite used to this. They have over 10 boats and prefer smaller numbers of people on board. Based on your current requirements they will load you 2 tanks for both dives. If you require more cylinders please ensure all passengers have added these to their Departure Lounge so we can pre-order them. Please also make it clear if you need 2 x independent 12 litre tanks OR a twinset with isolator manifold. |
-| Can we pay for 18 dives up front with an option to add another 6? | _Travel Agent 2023-10-19:_ We have booked you the following package: Two tank dives over 9 dives. This means you stay out on the boat and do both dives with a sufficient surface interval. If you wish to do the 3 tank dive package we can of course add this to your pre-booked package (for an additional cost) or you can pay locally as the mood takes you. Days off are not a problem. You just need to arrange with the dive centre on site. |
+|Q | Are the cylinder connections in Chuuk DIN or A-Clamp? |
+|A | _Travel Agent 2023-10-19:_ Blue Lagoon have both types of cylinders but they are used to receiving technical divers, so DIN tanks are not an issue.  |
+| Q | Can we use manifolded twins and top them up with a whip between 1st and 2nd dives? | 
+| A| _Travel Agent 2023-10-19:_  You are not able to top up cylinders on board the boat but the dive centre can load additional cylinders on board no problem. Many people go using twinsets and multiple stage cylinders so they are quite used to this. They have over 10 boats and prefer smaller numbers of people on board. Based on your current requirements they will load you 2 tanks for both dives. If you require more cylinders please ensure all passengers have added these to their Departure Lounge so we can pre-order them. Please also make it clear if you need 2 x independent 12 litre tanks OR a twinset with isolator manifold. |
+| Q | Can we pay for 18 dives up front with an option to add another 6? | 
+| A | _Travel Agent 2023-10-19:_ We have booked you the following package: Two tank dives over 9 dives. This means you stay out on the boat and do both dives with a sufficient surface interval. If you wish to do the 3 tank dive package we can of course add this to your pre-booked package (for an additional cost) or you can pay locally as the mood takes you. Days off are not a problem. You just need to arrange with the dive centre on site. |
 
 ## Travel
 

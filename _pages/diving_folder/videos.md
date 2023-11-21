@@ -32,3 +32,4 @@ A collection of various videos showcasing Truk and diving there. If anyone finds
 | ---------------| ------------------------- | -------- |
 | (2018) Truk Lagoon - Japan's Pearl Harbour. This is a private video, the password to view it is "Truk" | [Vimeo](https://vimeo.com/307093153){:target="\_blank} | 48 min |
 | (Old) Operation Hailstone the raid on Truk Lagoon | [Youtube](https://youtu.be/fPcLPPmOfJs?feature=shared){:target="\_blank"} | 10 min |
+| (2023) Operation Hailstone - The Carrier Raids on Truk. This is a video of a podcast recording made by two historians and a former US Navy submariner. It's long but worth a watch if you want the US military view of Hailstone | [Youtube](https://youtu.be/VdA3ufID1_0?feature=shared){:target="\_blank"} | 1h 40 min |
